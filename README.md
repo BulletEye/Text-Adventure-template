@@ -1,0 +1,3 @@
+# Adventure
+
+text adventure template
